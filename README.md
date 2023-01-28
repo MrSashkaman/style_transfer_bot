@@ -19,13 +19,13 @@
 ### Ссылки
 
 Архитектура модели была взята отсюда:
-https://pytorch.org/tutorials/advanced/neural_style_tutorial.html
+ https://pytorch.org/tutorials/advanced/neural_style_tutorial.html
 
 Для демонстрации код также залит на HuggingFace, где упакован в docker-контейнер:
-https://huggingface.co/spaces/MrSashkaman/StyleTransfer
+ https://huggingface.co/spaces/MrSashkaman/StyleTransfer
 
-Ссылка на самого бота в Telegram
-https://t.me/af_style_transfer_bot
+Ссылка на самого бота в Telegram:
+ https://t.me/af_style_transfer_bot
 
 
 
