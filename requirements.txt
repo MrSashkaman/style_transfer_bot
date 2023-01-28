@@ -1,0 +1,5 @@
+python-telegram-bot==13.11
+torch==1.13.1+cu116
+requests==2.27.1
+Pillow==9.0.0
+torchvision==0.14.1+cu116
